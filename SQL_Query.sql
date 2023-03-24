@@ -1,5 +1,5 @@
 ﻿--创建数据库
-
+    
 create database bookshop
 
 --建立基本表
