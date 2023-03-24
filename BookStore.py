@@ -1,4 +1,4 @@
-import pymssql
+import pymssql   
 serverName = '127.0.0.1'    #目的主机ip地址
 userName = '123'        #SQL Server身份账号
 passWord = '123'        #SQL Server身份密码
